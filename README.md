@@ -4,7 +4,7 @@
 ## Install
 
 ```
-git clone 
+git clone https://github.com/FlickDUB/p_scan.git
 cd p_scan
 python3 -m venv venv
 source venv/bin/activate
