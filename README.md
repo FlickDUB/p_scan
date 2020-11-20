@@ -1,6 +1,8 @@
 # p_scan
  MultiThread TCP Port Scanner
 
+![alt text](preview.png "Preview")
+
 ## Install
 
 ```
